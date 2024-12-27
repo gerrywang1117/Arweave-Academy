@@ -56,7 +56,7 @@ This course will be conducted with one module per week, and each module has 1-2 
 <br>
 
 ## Course Guideline
-TBD
+The specific course details will be announced on **January 6, 2025**.
 
 
 
