@@ -30,7 +30,7 @@ Developers need to complete GitHub registration by following these steps:
 2. Navigate to the `submissions` folder and create a new folder named after your GitHub username: `YourName`.
 3. Copy the [Template.md](./template.md) file into the newly created folder and rename it to your name: `YourName.md`.
 4. Open the `submissions/YourName/YourName.md` file, fill in your information as instructed, and save it.
-5. Submit a `PR` to this repository. Once your PR is merged, your GitHub registration is complete.
+5. Submit a `PR` to this repository. Once your PR is merged, your GitHub registration is complete. | [How to Submitting a PR on Github](./doc/How%20to%20Submitting%20a%20PR%20on%20Github.md)
 6. After you complete the registration process, please join in the [Discord channel]().
 
 <br>
@@ -56,7 +56,7 @@ This course will be conducted with one module per week, and each module has 1-2 
 <br>
 
 ## Course Guideline
-
+TBD
 
 
 
